@@ -30,6 +30,7 @@ Install the downloaded file on your Windows system.
   - [`git clone`](#git-clone)
   - [`git status`](#git-status)
   - [`git add`](#git-add)
+  - [`git remove`](#git-remove)
   - [`git commit`](#git-commit)
   - [`git log`](#git-log)
   - [`git checkout`](#git-checkout)
@@ -93,6 +94,15 @@ Git is a powerful version control system that helps you track changes in your pr
 
 **Usage:**
 - Creating a snapshot of the changes made to your files.
+- 
+#
+
+### git remove
+
+**Description:**  Remove a file (or folder).
+
+**Example:** `git rm -r [file-name.txt]	`
+
 #
 ### git log
 
